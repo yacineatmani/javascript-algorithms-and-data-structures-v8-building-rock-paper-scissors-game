@@ -6,3 +6,6 @@ In this mini project, you will review conditionals, functions, getElementById, a
 Dans les projets précédents, vous avez appris à manipuler les bases du DOM. Il est maintenant temps de revoir ce que vous avez appris en créant un jeu Pierre, Feuille, Ciseaux.
 
 Dans ce mini-projet, vous passerez en revue les conditions, les fonctions, getElementById et bien plus encore. Ce projet vous donnera l'occasion de résoudre de petits problèmes et de mieux comprendre les bases.
+
+
+Rock-paper-scissor.png
