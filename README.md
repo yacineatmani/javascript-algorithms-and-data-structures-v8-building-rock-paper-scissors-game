@@ -8,5 +8,6 @@ Dans les projets précédents, vous avez appris à manipuler les bases du DOM. I
 Dans ce mini-projet, vous passerez en revue les conditions, les fonctions, getElementById et bien plus encore. Ce projet vous donnera l'occasion de résoudre de petits problèmes et de mieux comprendre les bases.
 
 
-![Description de l'image](/home/yacine/Pictures/Screenshots/Screenshot from 2024-08-10 13-21-11.png)
+![Description de l'image](images/Screenshot%20from%202024-08-10%2013-21-11.png)
+
 
